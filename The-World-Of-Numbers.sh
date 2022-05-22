@@ -33,8 +33,8 @@ Explanation
 5 / 2 = 2 (Integer part)
 '
 #Solution
-read -p "" x;
-read -p "" y;
+read x;
+read y;
 
 echo $(( $x + $y ))  
 
