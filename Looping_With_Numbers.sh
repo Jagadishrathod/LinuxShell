@@ -21,7 +21,7 @@ Output Format
 '
 
 #Solution
-for ((i=1; i<51; i++));
+for ((i=1; i<51; i++))
 do
-    echo $i;
-done;
+    echo $i
+done
